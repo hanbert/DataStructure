@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508678901 source:f:\project\datastructure\firstsingle\main.cpp
+	<iostream>
+	<string.h>
+

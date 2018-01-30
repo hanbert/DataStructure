@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1509417126 source:f:\project\datastructure\linkedprqueue\main.cpp
+	<iostream>
+	"LinkedPrQueue.h"
+
+1509418028 f:\project\datastructure\linkedprqueue\linkedprqueue.h
+	<iostream>
+

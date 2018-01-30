@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1507550148 source:f:\project\datastructure\merge_list\linklist.cpp
+	<iostream>
+	"LinkList.h"
+
+1507556955 f:\project\datastructure\merge_list\linklist.h
+	<iostream>
+
+1507556363 source:f:\project\datastructure\merge_list\main.cpp
+	<iostream>
+	"LinkList.h"
+
+1507550148 f:\project\datastructure\merge_list\linklist.cpp
+	<iostream>
+	"LinkList.h"
+

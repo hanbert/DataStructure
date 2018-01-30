@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510143889 source:f:\project\datastructure\ackerman\main.cpp
+	<iostream>
+	<stack>
+

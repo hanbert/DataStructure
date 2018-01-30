@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508052698 source:f:\project\datastructure\stringpermutationandcombination\main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+

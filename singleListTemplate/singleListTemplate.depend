@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1509349326 source:f:\project\datastructure\singlelisttemplate\main.cpp
+	<iostream>
+	<string>
+	"singleList.h"
+
+1509347299 f:\project\datastructure\singlelisttemplate\singlelist.h
+	<iostream>
+
+1509347299 source:f:\project\datastructure\singlelisttemplate\singlelist.h
+	<iostream>
+
